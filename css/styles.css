@@ -40,3 +40,14 @@
 #lead-down .btn-rounded-white {
     margin-bottom: 25px; /* adjust as needed */
 }
+.project {
+    display: flex;
+    min-height: 200px; /* Increase height to allow space for all content */
+}
+
+.project-info {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 20px;
+}

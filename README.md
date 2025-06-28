@@ -8,7 +8,7 @@ This site showcases my work in aerospace engineering, mechanical engineering, an
 ## 🚀 Featured Projects
 - **NASA Micro-G NExT:** Designed a microgravity zip-tie installer for the ISS
 - **High-Power Rocketry:** Active team member supporting Athena rocket development
-- **Tinker Airforce Base E-Drill CRADA:** Wored on developing a tooling jig to assist with F119 engine rivet removal
+- **Tinker Airforce Base E-Drill CRADA:** Developed a tooling jig to assist with F119 engine rivet removal
 
 ## 📄 Resume
 You can [download my resume here](Samuel-Hiltz-Resume.pdf).
